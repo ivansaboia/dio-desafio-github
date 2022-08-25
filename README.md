@@ -1,5 +1,5 @@
 # Repositorio - Boot Camp Linux Experience
-Repositóri para o desafio Git/GitHub do Bootcamp Linux Experience
+Repositório para o desafio Git/GitHub do Bootcamp Linux Experience
 
 ## Links uteis
 
